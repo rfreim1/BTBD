@@ -1,0 +1,412 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\Bobo\dead.png</Source>
+      <Name>Sprites\Bobo\dead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">176, 116, 55, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\dead.xnb</Output>
+      <Time>2012-04-15T17:51:13.4729999-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Bobo\fireball.png</Source>
+      <Name>Sprites\Bobo\fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\fireball.xnb</Output>
+      <Time>2012-04-12T02:24:37.7982-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Bobo\fireball2.png</Source>
+      <Name>Sprites\Bobo\fireball2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\fireball2.xnb</Output>
+      <Time>2012-04-12T02:24:47.8892-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Bobo\firing.png</Source>
+      <Name>Sprites\Bobo\firing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">176, 116, 55, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\firing.xnb</Output>
+      <Time>2012-04-15T17:52:11.6479999-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Bobo\idle.png</Source>
+      <Name>Sprites\Bobo\idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">176, 116, 55, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\idle.xnb</Output>
+      <Time>2012-04-15T17:42:23.7359999-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Bobo\jumping.png</Source>
+      <Name>Sprites\Bobo\jumping</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">176, 116, 55, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\jumping.xnb</Output>
+      <Time>2012-04-15T17:47:31.6569999-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Bobo\running.png</Source>
+      <Name>Sprites\Bobo\running</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">176, 116, 55, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\running.xnb</Output>
+      <Time>2012-04-15T17:45:48.1639999-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\stars.bmp</Source>
+      <Name>Background\stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Background\stars.xnb</Output>
+      <Time>2012-04-08T18:42:51.662-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Bobo\HealthBar2.png</Source>
+      <Name>Sprites\Bobo\HealthBar2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\HealthBar2.xnb</Output>
+      <Time>2012-04-11T22:00:03.9734-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA0.png</Source>
+      <Name>Tiles\BlockA0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA0.xnb</Output>
+      <Time>2012-04-10T14:42:22.6746-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA1.png</Source>
+      <Name>Tiles\BlockA1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA1.xnb</Output>
+      <Time>2012-04-10T14:42:22.3158-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA2.png</Source>
+      <Name>Tiles\BlockA2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA2.xnb</Output>
+      <Time>2012-04-10T14:42:22.3782-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA3.png</Source>
+      <Name>Tiles\BlockA3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA3.xnb</Output>
+      <Time>2012-04-10T14:42:22.425-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA4.png</Source>
+      <Name>Tiles\BlockA4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA4.xnb</Output>
+      <Time>2012-04-10T14:42:22.4562-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA5.png</Source>
+      <Name>Tiles\BlockA5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA5.xnb</Output>
+      <Time>2012-04-10T14:42:22.503-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA6.png</Source>
+      <Name>Tiles\BlockA6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA6.xnb</Output>
+      <Time>2012-04-10T14:42:22.5654-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockB0.png</Source>
+      <Name>Tiles\BlockB0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockB0.xnb</Output>
+      <Time>2012-04-10T14:42:22.2534-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockB1.png</Source>
+      <Name>Tiles\BlockB1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockB1.xnb</Output>
+      <Time>2012-04-10T14:42:22.347-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Platform.png</Source>
+      <Name>Tiles\Platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\Platform.xnb</Output>
+      <Time>2012-04-10T14:42:22.5966-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\enemy.png</Source>
+      <Name>Sprites\Enemy\enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\enemy.xnb</Output>
+      <Time>2012-04-11T13:48:51.22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\zombie.png</Source>
+      <Name>Sprites\Enemy\zombie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\zombie.xnb</Output>
+      <Time>2012-04-11T13:48:51.227-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\die_enemy.png</Source>
+      <Name>Sprites\Enemy\die_enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\die_enemy.xnb</Output>
+      <Time>2012-04-11T22:00:04.067-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\die_zombie.png</Source>
+      <Name>Sprites\Enemy\die_zombie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\die_zombie.xnb</Output>
+      <Time>2012-04-11T22:00:04.067-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MenuBG.png</Source>
+      <Name>Sprites\MenuBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\MenuBG.xnb</Output>
+      <Time>2012-04-11T22:00:03.9734-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\clear.bmp</Source>
+      <Name>Background\clear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Background\clear.xnb</Output>
+      <Time>2012-04-12T02:03:19.9692-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\sunnysky.png</Source>
+      <Name>Background\sunnysky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Background\sunnysky.xnb</Output>
+      <Time>2012-04-12T02:08:38.3462-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Fonts\Hud.spritefont</Source>
+      <Name>Sprites\Fonts\Hud</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Fonts\Hud.xnb</Output>
+      <Time>2012-04-11T22:00:04.0358-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\enemyfire.png</Source>
+      <Name>Sprites\Enemy\enemyfire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\enemyfire.xnb</Output>
+      <Time>2012-04-16T00:23:46.615-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\enemy-idle.png</Source>
+      <Name>Sprites\Enemy\enemy-idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\enemy-idle.xnb</Output>
+      <Time>2012-04-16T23:15:03.112-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\zombie-idle.png</Source>
+      <Name>Sprites\Enemy\zombie-idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\zombie-idle.xnb</Output>
+      <Time>2012-04-16T23:15:03.061-05:00</Time>
+    </Item>
+    <Item>
+      <Source>logo.png</Source>
+      <Name>logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\logo.xnb</Output>
+      <Time>2012-04-16T23:15:02.915-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\wings.png</Source>
+      <Name>Tiles\wings</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\wings.xnb</Output>
+      <Time>2012-04-16T23:14:50.562-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Powerups\ammo.png</Source>
+      <Name>Sprites\Powerups\ammo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Powerups\ammo.xnb</Output>
+      <Time>2012-04-16T23:15:02.934-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Powerups\boots.png</Source>
+      <Name>Sprites\Powerups\boots</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Powerups\boots.xnb</Output>
+      <Time>2012-04-16T23:15:02.92-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Pep.wav</Source>
+      <Name>Music\Pep</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Music\Pep.xnb</Output>
+      <Extra>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Music\Pep.wma</Extra>
+      <Time>2012-04-16T23:15:01.947-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Pixel.wav</Source>
+      <Name>Music\Pixel</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Music\Pixel.xnb</Output>
+      <Extra>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Music\Pixel.wma</Extra>
+      <Time>2012-04-16T23:15:02.505-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{5B0DC4D0-5364-4862-A568-390ABF03D2C8}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBDContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-28T22:51:29.467-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

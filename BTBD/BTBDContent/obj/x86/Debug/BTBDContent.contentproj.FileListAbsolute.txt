@@ -1,0 +1,3 @@
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBDContent\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBDContent\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBDContent\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\Bobo\dead.png</Source>
+      <Name>Sprites\Bobo\dead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">176, 116, 55, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\dead.xnb</Output>
+      <Time>2012-04-08T18:53:19.7581086-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Bobo\fireball.png</Source>
+      <Name>Sprites\Bobo\fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\fireball.xnb</Output>
+      <Time>2012-04-08T18:53:19.7721094-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Bobo\fireball2.png</Source>
+      <Name>Sprites\Bobo\fireball2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\fireball2.xnb</Output>
+      <Time>2012-04-08T18:53:19.7761097-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Bobo\firing.png</Source>
+      <Name>Sprites\Bobo\firing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">176, 116, 55, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\firing.xnb</Output>
+      <Time>2012-04-08T18:53:19.765109-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Bobo\idle.png</Source>
+      <Name>Sprites\Bobo\idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">176, 116, 55, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\idle.xnb</Output>
+      <Time>2012-04-08T18:53:19.7611088-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Bobo\jumping.png</Source>
+      <Name>Sprites\Bobo\jumping</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">176, 116, 55, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\jumping.xnb</Output>
+      <Time>2012-04-08T18:53:19.7791098-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Bobo\running.png</Source>
+      <Name>Sprites\Bobo\running</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">176, 116, 55, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\running.xnb</Output>
+      <Time>2012-04-08T18:53:19.7681092-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\stars.bmp</Source>
+      <Name>Background\stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\Background\stars.xnb</Output>
+      <Time>2012-04-08T18:53:19.6301013-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA0.png</Source>
+      <Name>Tiles\BlockA0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA0.xnb</Output>
+      <Time>2012-04-08T18:57:46.7443794-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA1.png</Source>
+      <Name>Tiles\BlockA1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA1.xnb</Output>
+      <Time>2012-04-08T18:57:46.7463795-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA2.png</Source>
+      <Name>Tiles\BlockA2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA2.xnb</Output>
+      <Time>2012-04-08T18:57:46.7473796-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA3.png</Source>
+      <Name>Tiles\BlockA3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA3.xnb</Output>
+      <Time>2012-04-08T18:57:46.7483796-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA4.png</Source>
+      <Name>Tiles\BlockA4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA4.xnb</Output>
+      <Time>2012-04-08T18:57:46.7503797-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA5.png</Source>
+      <Name>Tiles\BlockA5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA5.xnb</Output>
+      <Time>2012-04-08T18:57:46.7513798-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA6.png</Source>
+      <Name>Tiles\BlockA6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA6.xnb</Output>
+      <Time>2012-04-08T18:57:46.7533799-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockB0.png</Source>
+      <Name>Tiles\BlockB0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockB0.xnb</Output>
+      <Time>2012-04-08T18:57:46.75438-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockB1.png</Source>
+      <Name>Tiles\BlockB1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockB1.xnb</Output>
+      <Time>2012-04-08T18:57:46.75538-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Exit.png</Source>
+      <Name>Tiles\Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\Tiles\Exit.xnb</Output>
+      <Time>2012-04-08T18:57:46.7563801-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Platform.png</Source>
+      <Name>Tiles\Platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\Tiles\Platform.xnb</Output>
+      <Time>2012-04-08T18:57:46.7583802-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\enemy.png</Source>
+      <Name>Sprites\Enemy\enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\enemy.xnb</Output>
+      <Time>2012-04-11T05:41:14.8013973-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\zombie.png</Source>
+      <Name>Sprites\Enemy\zombie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\zombie.xnb</Output>
+      <Time>2012-04-11T05:41:14.8013973-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBDContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBDContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ross\Documents\Class Work\ZSpring 12\EECS 395- Game Design\2DGAME\BTBD\BTBD\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-03-28T18:59:15.4690228-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

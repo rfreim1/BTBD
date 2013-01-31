@@ -1,0 +1,125 @@
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\dead.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\fireball.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\fireball2.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\firing.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\idle.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\jumping.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\running.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Background\stars.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\HealthBar2.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA0.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA1.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA2.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA3.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA4.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA5.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA6.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockB0.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockB1.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\Platform.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\enemy.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\zombie.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\die_enemy.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\die_zombie.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\MenuBG.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Background\clear.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Background\sunnysky.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Fonts\Hud.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Levels\1.txt
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\BTBD.exe
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\BTBD.pdb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\obj\x86\Debug\BTBD.exe
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\obj\x86\Debug\BTBD.pdb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\dead.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\fireball.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\fireball2.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\firing.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\idle.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\jumping.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\running.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Background\stars.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\HealthBar2.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA0.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA1.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA2.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA3.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA4.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA5.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA6.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockB0.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockB1.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\Exit.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\Platform.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\enemy.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\zombie.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\die_enemy.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\die_zombie.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\MenuBG.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Background\clear.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Background\sunnysky.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Fonts\Hud.xnb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Levels\1.txt
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\BTBD.exe
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\bin\x86\Debug\BTBD.pdb
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\obj\x86\Debug\BTBD.exe
+R:\Documents\School\EECS 395 Game Design\btbd\BTBD\BTBD\obj\x86\Debug\BTBD.pdb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\enemyfire.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\enemy-idle.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\zombie-idle.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\logo.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Tiles\wings.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Powerups\ammo.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Powerups\boots.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Music\Pep.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Music\Pixel.xnb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Music\Pep.wma
+C:\Users\Main\Documents\Visual Studio 2010\Projects\BTBD\BTBD\BTBD\bin\x86\Debug\Content\Music\Pixel.wma
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\dead.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\fireball.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\fireball2.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\firing.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\idle.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\jumping.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\running.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Background\stars.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Bobo\HealthBar2.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\enemyfire.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\zombie.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA0.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA1.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA2.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA3.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA4.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA5.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockA6.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockB0.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\BlockB1.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\Platform.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\enemy.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\die_enemy.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\die_zombie.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\MenuBG.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Background\clear.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Background\sunnysky.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\enemy-idle.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Enemy\zombie-idle.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\logo.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Tiles\wings.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Powerups\ammo.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Powerups\boots.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Sprites\Fonts\Hud.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Music\Pep.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Music\Pixel.xnb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Music\Pep.wma
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Music\Pixel.wma
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\Content\Levels\1.txt
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\BTBD.exe
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\bin\x86\Debug\BTBD.pdb
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\obj\x86\Debug\BTBD.exe
+R:\Documents\Class Work\ZSpring 12\EECS 395- Game Design\btbd\BTBD\BTBD\obj\x86\Debug\BTBD.pdb
